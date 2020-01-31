@@ -1,0 +1,20 @@
+{
+  "name": "eskill-linkedin-scraper",
+  "version": "1.0.0",
+  "description": "Linkedin Profile Scraping Job Skill",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cote": "0.19.1",
+    "elife-utils": "everlifeai/elife-utils",
+    "puppeteer": "^1.18.1"
+  },
+  "metaData": {
+    "authRequired": true,
+    "msg": "Enter your linkedIn credientials"
+  }
+}
