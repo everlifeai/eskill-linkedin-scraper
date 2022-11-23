@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cote": "0.19.1",
+    "cote": "1.0.3",
     "elife-utils": "everlifeai/elife-utils",
     "puppeteer": "^1.18.1"
   },
